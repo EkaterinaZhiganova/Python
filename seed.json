@@ -1,0 +1,24 @@
+{
+    "customers": [
+{
+    "name": "Boris",
+    "surname": "Johnson",
+    "account": 26
+},
+{
+    "name": "Doris",
+    "surname": "Johnson",
+    "account": 27
+},
+{
+    "name": "Rosa",
+    "surname": "Johnson",
+    "account": 28
+},
+{
+    "name": "John",
+    "surname": "Johnson",
+    "account": 29
+}
+]
+}
